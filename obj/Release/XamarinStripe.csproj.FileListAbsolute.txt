@@ -1,0 +1,13 @@
+C:\Users\Lidia\Downloads\XamarinStripe-master\XamarinStripe\bin\Release\XamarinStripe.dll
+C:\Users\Lidia\Downloads\XamarinStripe-master\XamarinStripe\bin\Release\XamarinStripe.pdb
+C:\Users\Lidia\Downloads\XamarinStripe-master\XamarinStripe\bin\Release\mscorlib.dll
+C:\Users\Lidia\Downloads\XamarinStripe-master\XamarinStripe\bin\Release\Newtonsoft.Json.dll
+C:\Users\Lidia\Downloads\XamarinStripe-master\XamarinStripe\bin\Release\Newtonsoft.Json.xml
+C:\Users\Lidia\Downloads\XamarinStripe-master\XamarinStripe\bin\Release\normidna.nlp
+C:\Users\Lidia\Downloads\XamarinStripe-master\XamarinStripe\bin\Release\normnfc.nlp
+C:\Users\Lidia\Downloads\XamarinStripe-master\XamarinStripe\bin\Release\normnfd.nlp
+C:\Users\Lidia\Downloads\XamarinStripe-master\XamarinStripe\bin\Release\normnfkc.nlp
+C:\Users\Lidia\Downloads\XamarinStripe-master\XamarinStripe\bin\Release\normnfkd.nlp
+C:\Users\Lidia\Downloads\XamarinStripe-master\XamarinStripe\obj\Release\XamarinStripe.dll
+C:\Users\Lidia\Downloads\XamarinStripe-master\XamarinStripe\obj\Release\XamarinStripe.pdb
+C:\Users\Lidia\Downloads\XamarinStripe-master\XamarinStripe\obj\Release\XamarinStripe.csprojResolveAssemblyReference.cache
